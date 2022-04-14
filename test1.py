@@ -1,1 +1,1 @@
-693 print('This is a Python file for testing pupose')
+694 print('This is a Python file for testing pupose')
